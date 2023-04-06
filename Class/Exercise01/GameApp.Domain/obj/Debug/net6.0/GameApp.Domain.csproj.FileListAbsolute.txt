@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\bin\Debug\net6.0\GameApp.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\bin\Debug\net6.0\GameApp.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\bin\Debug\net6.0\GameApp.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\refint\GameApp.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\GameApp.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise01\GameApp.Domain\obj\Debug\net6.0\ref\GameApp.Domain.dll

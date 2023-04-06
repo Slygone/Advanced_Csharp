@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Polymorphism/1.0.0": {
+        "dependencies": {
+          "Polymorphism.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Polymorphism.dll": {}
+        }
+      },
+      "Polymorphism.Domain/1.0.0": {
+        "runtime": {
+          "Polymorphism.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polymorphism.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

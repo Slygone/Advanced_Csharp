@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\bin\Debug\net6.0\StaticClasses.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\bin\Debug\net6.0\StaticClasses.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\bin\Debug\net6.0\StaticClasses.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\refint\StaticClasses.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\StaticClasses.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Class_03\StaticClasses.Domain\obj\Debug\net6.0\ref\StaticClasses.Domain.dll

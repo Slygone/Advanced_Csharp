@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\bin\Debug\net6.0\Polymorphism.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\bin\Debug\net6.0\Polymorphism.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\bin\Debug\net6.0\Polymorphism.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\refint\Polymorphism.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\Polymorphism.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_03(a)\Polymorphism.Domain\obj\Debug\net6.0\ref\Polymorphism.Domain.dll
