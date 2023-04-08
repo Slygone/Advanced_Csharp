@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\bin\Debug\net6.0\Generics.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\bin\Debug\net6.0\Generics.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\bin\Debug\net6.0\Generics.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\refint\Generics.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\Generics.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Exercise02\Generics.Domain\obj\Debug\net6.0\ref\Generics.Domain.dll

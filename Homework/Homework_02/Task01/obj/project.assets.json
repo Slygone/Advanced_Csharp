@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Task01.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Task01.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task01.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Task01.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Task01.Domain/Task01.Domain.csproj",
+      "msbuildProject": "../Task01.Domain/Task01.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Task01.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Nik\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Nik\\Desktop\\Advanced_C#\\Homework\\Homework_02\\Task01.Domain\\Task01.Domain.csproj": {
+              "projectPath": "C:\\Users\\Nik\\Desktop\\Advanced_C#\\Homework\\Homework_02\\Task01.Domain\\Task01.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
