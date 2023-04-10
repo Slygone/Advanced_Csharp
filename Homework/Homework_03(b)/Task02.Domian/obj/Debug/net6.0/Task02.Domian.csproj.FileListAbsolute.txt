@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\bin\Debug\net6.0\Task02.Domian.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\bin\Debug\net6.0\Task02.Domian.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\bin\Debug\net6.0\Task02.Domian.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\refint\Task02.Domian.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\Task02.Domian.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_03(b)\Task02.Domian\obj\Debug\net6.0\ref\Task02.Domian.dll

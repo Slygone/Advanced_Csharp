@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Help/1.0.0": {
+        "dependencies": {
+          "Help.Domian": "1.0.0"
+        },
+        "runtime": {
+          "Help.dll": {}
+        }
+      },
+      "Help.Domian/1.0.0": {
+        "runtime": {
+          "Help.Domian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Help/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Help.Domian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

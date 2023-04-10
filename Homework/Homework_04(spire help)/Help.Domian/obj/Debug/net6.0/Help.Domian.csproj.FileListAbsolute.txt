@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\bin\Debug\net6.0\Help.Domian.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\bin\Debug\net6.0\Help.Domian.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\bin\Debug\net6.0\Help.Domian.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\refint\Help.Domian.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\Help.Domian.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04(spire help)\Help.Domian\obj\Debug\net6.0\ref\Help.Domian.dll
