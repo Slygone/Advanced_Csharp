@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\bin\Debug\net6.0\AdvancedLINQ.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\bin\Debug\net6.0\AdvancedLINQ.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\bin\Debug\net6.0\AdvancedLINQ.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\refint\AdvancedLINQ.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\AdvancedLINQ.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_06(b)\AdvancedLINQ.Domain\obj\Debug\net6.0\ref\AdvancedLINQ.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.exe
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\refint\WorkingWithStreams.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\Class_09(b)\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll

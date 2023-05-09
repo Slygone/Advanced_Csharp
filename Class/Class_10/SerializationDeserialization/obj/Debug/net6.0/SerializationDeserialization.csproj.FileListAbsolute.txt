@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\bin\Debug\net6.0\SerializationDeserialization.exe
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\bin\Debug\net6.0\SerializationDeserialization.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\bin\Debug\net6.0\SerializationDeserialization.runtimeconfig.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\bin\Debug\net6.0\SerializationDeserialization.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\bin\Debug\net6.0\SerializationDeserialization.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\refint\SerializationDeserialization.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\SerializationDeserialization.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10\SerializationDeserialization\obj\Debug\net6.0\ref\SerializationDeserialization.dll

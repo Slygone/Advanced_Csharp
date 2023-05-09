@@ -1,0 +1,17 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\bin\Debug\net6.0\JsonDb.exe
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\bin\Debug\net6.0\JsonDb.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\bin\Debug\net6.0\JsonDb.runtimeconfig.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\bin\Debug\net6.0\JsonDb.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\bin\Debug\net6.0\JsonDb.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\refint\JsonDb.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\ref\JsonDb.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_10(a)\JsonDb\obj\Debug\net6.0\JsonDb.csproj.CopyComplete

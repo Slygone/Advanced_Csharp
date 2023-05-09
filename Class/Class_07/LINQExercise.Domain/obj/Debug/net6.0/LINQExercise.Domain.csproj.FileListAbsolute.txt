@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\bin\Debug\net6.0\LINQExercise.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\bin\Debug\net6.0\LINQExercise.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\bin\Debug\net6.0\LINQExercise.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\refint\LINQExercise.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\LINQExercise.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_07\LINQExercise.Domain\obj\Debug\net6.0\ref\LINQExercise.Domain.dll

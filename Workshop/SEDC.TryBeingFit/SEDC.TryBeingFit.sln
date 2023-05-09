@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.33424.131
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TryBeingFit", "SEDC.TryBeingFit\SEDC.TryBeingFit.csproj", "{7313981E-BAB5-481E-B478-ADEDE322D000}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TryBeingFit.Domain", "SEDC.TryBeingFit.Domain\SEDC.TryBeingFit.Domain.csproj", "{6A583BC2-A994-4015-BE7D-9756CF563CE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TryBeingFit.Domain", "SEDC.TryBeingFit.Domain\SEDC.TryBeingFit.Domain.csproj", "{DCB8537F-06A0-4ADF-A545-56EE6D72E7C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TryBeingFit.Services", "SEDC.TryBeingFit.Services\SEDC.TryBeingFit.Services.csproj", "{13BC823C-E0E2-471F-920B-BE2B2D45D9FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TryBeingFit.Services", "SEDC.TryBeingFit.Services\SEDC.TryBeingFit.Services.csproj", "{4B699106-EEF8-4462-A6CB-0F143AF17371}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TryBeingFit.App", "SEDC.TryBeingFit.App\SEDC.TryBeingFit.App.csproj", "{B63A488B-EF3D-4D8B-945F-1A59F393AEF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7313981E-BAB5-481E-B478-ADEDE322D000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7313981E-BAB5-481E-B478-ADEDE322D000}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7313981E-BAB5-481E-B478-ADEDE322D000}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7313981E-BAB5-481E-B478-ADEDE322D000}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DCB8537F-06A0-4ADF-A545-56EE6D72E7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCB8537F-06A0-4ADF-A545-56EE6D72E7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCB8537F-06A0-4ADF-A545-56EE6D72E7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCB8537F-06A0-4ADF-A545-56EE6D72E7C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4B699106-EEF8-4462-A6CB-0F143AF17371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B699106-EEF8-4462-A6CB-0F143AF17371}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B699106-EEF8-4462-A6CB-0F143AF17371}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B699106-EEF8-4462-A6CB-0F143AF17371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A583BC2-A994-4015-BE7D-9756CF563CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A583BC2-A994-4015-BE7D-9756CF563CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A583BC2-A994-4015-BE7D-9756CF563CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A583BC2-A994-4015-BE7D-9756CF563CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BC823C-E0E2-471F-920B-BE2B2D45D9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BC823C-E0E2-471F-920B-BE2B2D45D9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BC823C-E0E2-471F-920B-BE2B2D45D9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BC823C-E0E2-471F-920B-BE2B2D45D9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63A488B-EF3D-4D8B-945F-1A59F393AEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63A488B-EF3D-4D8B-945F-1A59F393AEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63A488B-EF3D-4D8B-945F-1A59F393AEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63A488B-EF3D-4D8B-945F-1A59F393AEF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5B96AD24-0A12-46B1-90A4-621FE33AF34A}
+		SolutionGuid = {84485D9D-C6CC-4ADF-AE81-A9D50750BE92}
 	EndGlobalSection
 EndGlobal

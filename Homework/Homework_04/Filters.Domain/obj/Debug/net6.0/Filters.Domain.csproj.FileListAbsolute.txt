@@ -1,0 +1,12 @@
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\bin\Debug\net6.0\Filters.Domain.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\bin\Debug\net6.0\Filters.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\bin\Debug\net6.0\Filters.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\refint\Filters.Domain.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\Filters.Domain.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_04\Filters.Domain\obj\Debug\net6.0\ref\Filters.Domain.dll

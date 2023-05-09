@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iiL7oAHFo83QIuZVHO9qdef4/UrSN06/WAx4zz5baeOvGnU/fzEhtlFQOIIiaKfQtn7btfWKfNjli411K6VwIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nik\\Desktop\\Advanced_C#\\Homework\\Homework_11\\DogHomework\\DogHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

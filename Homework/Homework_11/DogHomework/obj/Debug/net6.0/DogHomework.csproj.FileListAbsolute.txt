@@ -1,0 +1,17 @@
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\bin\Debug\net6.0\DogHomework.exe
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\bin\Debug\net6.0\DogHomework.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\bin\Debug\net6.0\DogHomework.runtimeconfig.json
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\bin\Debug\net6.0\DogHomework.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\bin\Debug\net6.0\DogHomework.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.csproj.CopyComplete
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\refint\DogHomework.dll
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\DogHomework.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Advanced_C#\Homework\Homework_11\DogHomework\obj\Debug\net6.0\ref\DogHomework.dll

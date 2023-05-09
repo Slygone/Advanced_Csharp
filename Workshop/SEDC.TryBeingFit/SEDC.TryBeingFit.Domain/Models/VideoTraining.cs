@@ -1,26 +1,37 @@
 ﻿using SEDC.TryBeingFit.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SEDC.TryBeingFit.Domain.Models
 {
     public class VideoTraining : Training, IVideoTraining
     {
-        public double Rating { get; set; }
         public string Link { get; set; }
+        public string CheckRating()
+        {
+            if(Rating == 0)
+            {
+                return "No rating";
+            }
+            else if(Rating < 3)
+            {
+                return "Bad";
+            }
+            else if(Rating < 4)
+            {
+                return "OK";
+            }
+            else if(Rating <= 5)
+            {
+                return "Good";
+            }
+            else
+            {
+                return "Invalid rating";
+            }
+        }
 
         public override string GetInfo()
         {
-            return $"{Title}, you can watch it on the following Link {Link}. Duration: {Duration}, Rating: {Rating}";
-        }
-
-        //we should be able to update the rating
-        public void UpdateRating (int grade)
-        {
-            Rating = (Rating + grade) / 2;
+           return $"{Title} - {Description}, lasts: {Time}, difficulty: {Difficulty}, link: [{Link}]";
         }
     }
 }

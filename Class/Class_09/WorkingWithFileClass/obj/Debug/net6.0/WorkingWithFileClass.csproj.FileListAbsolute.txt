@@ -1,0 +1,15 @@
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\bin\Debug\net6.0\WorkingWithFileClass.exe
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\bin\Debug\net6.0\WorkingWithFileClass.deps.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\bin\Debug\net6.0\WorkingWithFileClass.runtimeconfig.json
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\bin\Debug\net6.0\WorkingWithFileClass.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\bin\Debug\net6.0\WorkingWithFileClass.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.AssemblyInfo.cs
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\refint\WorkingWithFileClass.dll
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.pdb
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\WorkingWithFileClass.genruntimeconfig.cache
+C:\Users\Nik\Desktop\Advanced_C#\Class\Class_09\WorkingWithFileClass\obj\Debug\net6.0\ref\WorkingWithFileClass.dll

@@ -1,58 +1,65 @@
-﻿using SEDC.TryBeingFit.Domain.DbInterfaces;
-using SEDC.TryBeingFit.Domain.Models;
+﻿using SEDC.TryBeingFit.Domain.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace SEDC.TryBeingFit.Domain.Database
 {
     public class Database<T> : IDatabase<T> where T : BaseEntity
     {
-        private List<T> _items { get; set; }
-        private int _id;
+        private List<T> _table { get; set; }
+        public int Id { get; set; }
 
-        public Database() 
+        public Database()
         {
-            _items = new List<T>();
-            _id = 1;
+            _table = new List<T>();
+            Id = 1;
         }
-        public void Add(T entity)
-        {
-            entity.Id = _id++;
-            _items.Add(entity);
-            Console.WriteLine($"Item with id {entity.Id} added");
-        }
-
         public List<T> GetAll()
         {
-            return _items;
+            return _table;
         }
 
-        public T GetByID(int id)
+        public T GetbyId(int id)
         {
-            T item  = _items.FirstOrDefault(x => x.Id == id);
-            if(item == null)
+            T dbEntity = _table.FirstOrDefault(x => x.Id == id);
+            if(dbEntity == null)
             {
-                throw new Exception($"Item with id {id} was not found");
+                throw new Exception($"Entity with id {id} not found");
             }
-            return item;
+            return dbEntity;
+        }
+
+        public int Insert(T entity)
+        {
+            //we set the Id property of the entity and then we increment the Id property of the database
+            //the Id of the entity is first zero, before we assign value to it
+            entity.Id = Id++;
+            _table.Add(entity);
+            return entity.Id;
         }
 
         public void RemoveById(int id)
         {
-            T item = _items.FirstOrDefault(x => x.Id == id);
-            if (item == null)
+            //first we search if the entity we want to delete exists
+            T dbEntity = _table.FirstOrDefault(x => x.Id == id);
+            if (dbEntity == null)
             {
-                throw new Exception($"Item with id {id} was not found");
+                throw new Exception($"Entity with id {id} not found");
             }
-            _items.Remove(item);
-            Console.WriteLine($"Item with id {id} was removed"); 
+            _table.Remove(dbEntity);
         }
+
         public void Update(T entity)
         {
-            T item = _items.FirstOrDefault(x => x.Id == entity.Id);
-            if (item == null)
+            //first we search if the entity we want to update exists
+            T dbEntity = _table.FirstOrDefault(x => x.Id == entity.Id);
+            if (dbEntity == null)
             {
-                throw new Exception($"Item with id {entity.Id} was not found");
+                throw new Exception($"Entity with id {entity.Id} not found");
             }
-            item = entity;
+            //if it exists update to the object with the new values
+            dbEntity = entity;
         }
     }
 }
